@@ -2,5 +2,7 @@
     <string name="app_name">ProductListProj1</string>
     <string name="btnListName">Lista zakupów</string>
     <string name="btnOptionName">Opcje</string>
-    <string name="tvFontSizeName">Ustaw rozmiar czcionki</string>
+    <string name="tvFontSizeName">Ustaw duży rozmiar tekstu</string>
+    <string name="tvChoseColor">Wybierz kolor tekstu</string>
+    <string name="switchBigFont">Duża czcionka</string>
 </resources>
